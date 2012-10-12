@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <title> This is Genre </title>
+  </head>
+  <body>
+    <h1> Genres </h1>
+    <p> Including music, etc. </p>
+
+    <ul>
+    {% for genre in genres %}
+      <li><p> {{  genre.get('name')  }} </p>
+      <ul>
+        {% for subgenre in genre.get('subgenres') %}
+          <li><p> {{ subgenre.get('name') }} </p></li>
+        {% endfor %}
+      </ul></li>
+      
+    {% endfor %}
+    </ul>
+
+    <h2> That's it! </h2>
+
+  </body>
+</html>
+
