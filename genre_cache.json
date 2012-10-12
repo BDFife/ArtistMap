@@ -1,2760 +1,2739 @@
-{
-    "status": "ok", 
-    "genres": [
-        {
-            "subgenres": [
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012238", 
-                    "name": "Computer Music"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011891", 
-                    "name": "Conceptual Art"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012269", 
-                    "name": "Creative Orchestra"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012210", 
-                    "name": "Experimental Electronic"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012076", 
-                    "name": "Improvisation"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012082", 
-                    "name": "Microtonal"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012315", 
-                    "name": "Minimalism"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012251", 
-                    "name": "Mixed Media"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012083", 
-                    "name": "Modern Composition"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012155", 
-                    "name": "Musique Actuelle"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012319", 
-                    "name": "Musique Concr\u00e8te"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012085", 
-                    "name": "Noise"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012358", 
-                    "name": "Post-Minimalism"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012126", 
-                    "name": "Process-Generated"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012158", 
-                    "name": "Radio Works"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011958", 
-                    "name": "Sound Art"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011959", 
-                    "name": "Sound Collage"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012289", 
-                    "name": "Sound Sculpture"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012162", 
-                    "name": "Structured Improvisation"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012196", 
-                    "name": "Tape Music"
-                }
-            ], 
-            "type": "Music Genre", 
-            "id": "MA0000012170", 
-            "name": "Avant-Garde"
-        }, 
-        {
-            "subgenres": [
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012058", 
-                    "name": "Acoustic Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011814", 
-                    "name": "Blues Gospel"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012232", 
-                    "name": "Blues Revival"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002517", 
-                    "name": "Classic Blues Vocals"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004403", 
-                    "name": "Classic Female Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002960", 
-                    "name": "Contemporary Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002533", 
-                    "name": "Country Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012302", 
-                    "name": "Dirty Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011898", 
-                    "name": "Early American Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004405", 
-                    "name": "Electric Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012304", 
-                    "name": "Electric Country Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011822", 
-                    "name": "Electric Harmonica Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012042", 
-                    "name": "Folk-Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002404", 
-                    "name": "Harmonica Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011940", 
-                    "name": "Juke Joint Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002678", 
-                    "name": "Jump Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011864", 
-                    "name": "Minstrel"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012184", 
-                    "name": "Modern Acoustic Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002730", 
-                    "name": "Modern Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011944", 
-                    "name": "Modern Electric Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002405", 
-                    "name": "Piano Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002794", 
-                    "name": "Pre-War Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011871", 
-                    "name": "Pre-War Country Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012359", 
-                    "name": "Pre-War Gospel Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002821", 
-                    "name": "Regional Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004404", 
-                    "name": "Slide Guitar Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012093", 
-                    "name": "Songster"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004996", 
-                    "name": "Soul-Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004995", 
-                    "name": "Traditional Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012096", 
-                    "name": "Urban Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011921", 
-                    "name": "Vaudeville Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012293", 
-                    "name": "Work Songs"
-                }
-            ], 
-            "type": "Music Genre", 
-            "id": "MA0000002467", 
-            "name": "Blues"
-        }, 
-        {
-            "subgenres": [
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012204", 
-                    "name": "Children's Folk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012171", 
-                    "name": "Children's Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011889", 
-                    "name": "Children's Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004410", 
-                    "name": "Children's Songwriters"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004409", 
-                    "name": "Educational"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012072", 
-                    "name": "Fairy Tales"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000013406", 
-                    "name": "Instrumental Children's Music"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004408", 
-                    "name": "Lullabies"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012087", 
-                    "name": "Nursery Rhymes"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004407", 
-                    "name": "Sing-Alongs"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004406", 
-                    "name": "Stories"
-                }
-            ], 
-            "type": "Music Genre", 
-            "id": "MA0000002944", 
-            "name": "Children's"
-        }, 
-        {
-            "subgenres": [
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004930", 
-                    "name": "Avant-Garde Music"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004505", 
-                    "name": "Ballet"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004501", 
-                    "name": "Band Music"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004500", 
-                    "name": "Chamber Music"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004509", 
-                    "name": "Choral"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004504", 
-                    "name": "Classical Crossover"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012338", 
-                    "name": "Concerto"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004507", 
-                    "name": "Electronic/Computer Music"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012306", 
-                    "name": "Film Score"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011828", 
-                    "name": "Keyboard"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012215", 
-                    "name": "Miscellaneous (Classical)"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004512", 
-                    "name": "Opera"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004499", 
-                    "name": "Orchestral"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004506", 
-                    "name": "Show/Musical"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012291", 
-                    "name": "Symphony"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004520", 
-                    "name": "Vocal Music"
-                }
-            ], 
-            "type": "Music Genre", 
-            "id": "MA0000002521", 
-            "name": "Classical"
-        }, 
-        {
-            "subgenres": [
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002525", 
-                    "name": "Comedy"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002875", 
-                    "name": "Spoken Word"
-                }
-            ], 
-            "type": "Music Genre", 
-            "id": "MA0000004433", 
-            "name": "Comedy/Spoken"
-        }, 
-        {
-            "subgenres": [
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004415", 
-                    "name": "Americana"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002443", 
-                    "name": "Bakersfield Sound"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002466", 
-                    "name": "Bluegrass"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012138", 
-                    "name": "Close Harmony"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002946", 
-                    "name": "Contemporary Country"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011894", 
-                    "name": "Country Boogie"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012239", 
-                    "name": "Country Comedy"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012141", 
-                    "name": "Country-Folk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004416", 
-                    "name": "Country-Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002538", 
-                    "name": "Cowboy"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002561", 
-                    "name": "Early Country"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002648", 
-                    "name": "Honky Tonk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011979", 
-                    "name": "Instrumental Country"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012351", 
-                    "name": "Jug Band"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002739", 
-                    "name": "Nashville Sound/Countrypolitan"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012123", 
-                    "name": "Old-Timey"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002949", 
-                    "name": "Outlaw Country"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002796", 
-                    "name": "Progressive Country"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012323", 
-                    "name": "Rodeo"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011873", 
-                    "name": "Square Dance"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004474", 
-                    "name": "Traditional Country"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012199", 
-                    "name": "Truck Driving Country"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012202", 
-                    "name": "Urban Cowboy"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002935", 
-                    "name": "Western Swing"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012227", 
-                    "name": "Western Swing Revival"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012228", 
-                    "name": "Yodeling"
-                }
-            ], 
-            "type": "Music Genre", 
-            "id": "MA0000002532", 
-            "name": "Country"
-        }, 
-        {
-            "subgenres": [
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002446", 
-                    "name": "Ballroom Dance"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012236", 
-                    "name": "Classical Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012240", 
-                    "name": "Easy Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002581", 
-                    "name": "Exotica"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002629", 
-                    "name": "Guitar/Easy Listening"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002659", 
-                    "name": "Instrumental Collections"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012247", 
-                    "name": "Instrumental Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012079", 
-                    "name": "Lounge"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012317", 
-                    "name": "Mood Music"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002765", 
-                    "name": "Orchestral/Easy Listening"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002766", 
-                    "name": "Organ/Easy Listening"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002771", 
-                    "name": "Panflute/Easy Listening"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002777", 
-                    "name": "Piano/Easy Listening"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002780", 
-                    "name": "Polka"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011960", 
-                    "name": "Space Age Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002908", 
-                    "name": "Trumpet/Easy Listening"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012168", 
-                    "name": "Waltz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002930", 
-                    "name": "Wedding Collections"
-                }
-            ], 
-            "type": "Music Genre", 
-            "id": "MA0000002567", 
-            "name": "Easy Listening"
-        }, 
-        {
-            "subgenres": [
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002414", 
-                    "name": "Acid Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002424", 
-                    "name": "Ambient"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011810", 
-                    "name": "Ambient Breakbeat"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011811", 
-                    "name": "Ambient Dub"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012031", 
-                    "name": "Ambient House"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004476", 
-                    "name": "Baile Funk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004997", 
-                    "name": "Big Beat"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004991", 
-                    "name": "Breakcore"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004475", 
-                    "name": "Broken Beat"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012235", 
-                    "name": "Chiptunes"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002544", 
-                    "name": "Club/Dance"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011890", 
-                    "name": "Clubjazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011972", 
-                    "name": "Dark Ambient"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012007", 
-                    "name": "Downbeat"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004999", 
-                    "name": "Downtempo"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002571", 
-                    "name": "Electro"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012174", 
-                    "name": "Electro-Acoustic"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012175", 
-                    "name": "Electro-Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002574", 
-                    "name": "Electronica"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012112", 
-                    "name": "Experimental Ambient"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011974", 
-                    "name": "Experimental Dub"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012209", 
-                    "name": "Experimental Electro"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004998", 
-                    "name": "Funky Breaks"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012308", 
-                    "name": "Garage"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011854", 
-                    "name": "Glitch"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002651", 
-                    "name": "House"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004477", 
-                    "name": "IDM"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012348", 
-                    "name": "Illbient"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012077", 
-                    "name": "Industrial Dance"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002557", 
-                    "name": "Jungle/Drum'n'Bass"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012280", 
-                    "name": "Microsound"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011910", 
-                    "name": "Neo-Electro"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011831", 
-                    "name": "Newbeat"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012021", 
-                    "name": "Nu Breaks"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004480", 
-                    "name": "Rave"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002893", 
-                    "name": "Techno"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002903", 
-                    "name": "Trance"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002906", 
-                    "name": "Trip-Hop"
-                }
-            ], 
-            "type": "Music Genre", 
-            "id": "MA0000002572", 
-            "name": "Electronic"
-        }, 
-        {
-            "subgenres": [
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011878", 
-                    "name": "Acid Folk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012099", 
-                    "name": "Alternative Folk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004417", 
-                    "name": "Anti-Folk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002959", 
-                    "name": "British Folk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012267", 
-                    "name": "Contemporary Folk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012041", 
-                    "name": "Field Recordings"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004420", 
-                    "name": "Folk Revival"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000005011", 
-                    "name": "Folk-Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012043", 
-                    "name": "Folksongs"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012282", 
-                    "name": "Neo-Traditional Folk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011947", 
-                    "name": "New Acoustic"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012253", 
-                    "name": "Political Folk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012361", 
-                    "name": "Progressive Folk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004418", 
-                    "name": "Protest Songs"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000005006", 
-                    "name": "Sea Shanties"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002880", 
-                    "name": "String Bands"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004419", 
-                    "name": "Traditional Folk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004421", 
-                    "name": "Urban Folk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002823", 
-                    "name": "Work Song"
-                }
-            ], 
-            "type": "Music Genre", 
-            "id": "MA0000002592", 
-            "name": "Folk"
-        }, 
-        {
-            "subgenres": [
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012332", 
-                    "name": "Carols"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011929", 
-                    "name": "Christmas"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012071", 
-                    "name": "Easter"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011825", 
-                    "name": "Halloween"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012148", 
-                    "name": "Holidays"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012325", 
-                    "name": "Thanksgiving"
-                }
-            ], 
-            "type": "Music Genre", 
-            "id": "MA0000012075", 
-            "name": "Holiday"
-        }, 
-        {
-            "subgenres": [
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002416", 
-                    "name": "African Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002432", 
-                    "name": "Asian Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002477", 
-                    "name": "Brazilian Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002499", 
-                    "name": "Caribbean Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002502", 
-                    "name": "Celtic"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004472", 
-                    "name": "Central European Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002565", 
-                    "name": "Central/West Asian Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012234", 
-                    "name": "Chants"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002511", 
-                    "name": "Chinese Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002580", 
-                    "name": "European Folk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011975", 
-                    "name": "Finger-Picked Guitar"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002612", 
-                    "name": "Folk Dance"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012113", 
-                    "name": "Folklore"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004469", 
-                    "name": "Indian Subcontinent Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002657", 
-                    "name": "Indonesian Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012309", 
-                    "name": "International Folk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000005029", 
-                    "name": "International Fusion"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002672", 
-                    "name": "Japanese Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002676", 
-                    "name": "Jewish Music"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002680", 
-                    "name": "Mediterranean Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002726", 
-                    "name": "Middle Eastern Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012187", 
-                    "name": "Neo-Traditional"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004471", 
-                    "name": "Nordic Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002716", 
-                    "name": "North American Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002596", 
-                    "name": "North/East Asian Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004470", 
-                    "name": "Oceanic Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002937", 
-                    "name": "Pan-Global"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011991", 
-                    "name": "Pipe Bands"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012090", 
-                    "name": "Quadrille"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002838", 
-                    "name": "Russian Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002869", 
-                    "name": "South American Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002597", 
-                    "name": "South/Eastern European Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004468", 
-                    "name": "Southeast Asian Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012056", 
-                    "name": "Traditional European Folk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004467", 
-                    "name": "Western European Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011922", 
-                    "name": "Worldbeat"
-                }
-            ], 
-            "type": "Music Genre", 
-            "id": "MA0000002660", 
-            "name": "International"
-        }, 
-        {
-            "subgenres": [
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002438", 
-                    "name": "Avant-Garde Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002461", 
-                    "name": "Big Band"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002471", 
-                    "name": "Boogie-Woogie"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002457", 
-                    "name": "Bop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012264", 
-                    "name": "British Dance Bands"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012336", 
-                    "name": "Chamber Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002508", 
-                    "name": "Chicago Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004545", 
-                    "name": "Contemporary Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012140", 
-                    "name": "Continental Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002530", 
-                    "name": "Cool"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012142", 
-                    "name": "Crossover Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012107", 
-                    "name": "Dance Bands"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002553", 
-                    "name": "Dixieland"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011973", 
-                    "name": "Early Creative"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002519", 
-                    "name": "Early Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012242", 
-                    "name": "Electric Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012009", 
-                    "name": "Experimental Big Band"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011933", 
-                    "name": "Folk Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011823", 
-                    "name": "Free Funk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004486", 
-                    "name": "Free Improvisation"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002598", 
-                    "name": "Free Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002607", 
-                    "name": "Fusion"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002634", 
-                    "name": "Hard Bop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011856", 
-                    "name": "Hot Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011827", 
-                    "name": "Jazz Blues"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002947", 
-                    "name": "Jazz Instrument"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011905", 
-                    "name": "Jazz-Funk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011906", 
-                    "name": "Jazz-Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012150", 
-                    "name": "Jive"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012249", 
-                    "name": "Mainstream Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012182", 
-                    "name": "M-Base"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011865", 
-                    "name": "Modal Music"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011986", 
-                    "name": "Modern Big Band"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011987", 
-                    "name": "Modern Creative"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012185", 
-                    "name": "Modern Free"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004544", 
-                    "name": "Modern Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011946", 
-                    "name": "Neo-Bop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011867", 
-                    "name": "New Orleans Brass Bands"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011830", 
-                    "name": "New Orleans Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012189", 
-                    "name": "New Orleans Jazz Revival"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012047", 
-                    "name": "Novelty Ragtime"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011833", 
-                    "name": "Orchestral Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000005010", 
-                    "name": "Post-Bop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012127", 
-                    "name": "Progressive Big Band"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012362", 
-                    "name": "Progressive Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004422", 
-                    "name": "Ragtime"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002860", 
-                    "name": "Smooth Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012365", 
-                    "name": "Society Dance Band"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002866", 
-                    "name": "Soul Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000013403", 
-                    "name": "Spiritual Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012256", 
-                    "name": "Straight-Ahead Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012053", 
-                    "name": "Stride"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011843", 
-                    "name": "Sweet Bands"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004423", 
-                    "name": "Swing"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012292", 
-                    "name": "Third Stream"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012054", 
-                    "name": "Trad Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002948", 
-                    "name": "Vocal Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002933", 
-                    "name": "West Coast Jazz"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012260", 
-                    "name": "World Fusion"
-                }
-            ], 
-            "type": "Music Genre", 
-            "id": "MA0000002674", 
-            "name": "Jazz"
-        }, 
-        {
-            "subgenres": [
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012098", 
-                    "name": "Afro-Brazilian"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012132", 
-                    "name": "Afro-Colombian"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012061", 
-                    "name": "Afro-Peruvian"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002505", 
-                    "name": "Alternative Latin"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012035", 
-                    "name": "Beguine"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012135", 
-                    "name": "Beguine Moderne"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012064", 
-                    "name": "Beguine Vide"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011887", 
-                    "name": "Boogaloo"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002503", 
-                    "name": "Central American Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012068", 
-                    "name": "Cha-Cha"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012266", 
-                    "name": "Changui"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012143", 
-                    "name": "Cuatro"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002540", 
-                    "name": "Cuban Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002555", 
-                    "name": "Dominican Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012119", 
-                    "name": "Lambada"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012015", 
-                    "name": "Latin Big Band"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002693", 
-                    "name": "Latin CCM"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011984", 
-                    "name": "Latin Comedy"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002694", 
-                    "name": "Latin Dance"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012016", 
-                    "name": "Latin Folk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011861", 
-                    "name": "Latin Freestyle"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004461", 
-                    "name": "Latin Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012248", 
-                    "name": "Latin Soul"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002722", 
-                    "name": "Mexican Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012153", 
-                    "name": "Modern Son"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012046", 
-                    "name": "New York Salsa"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002719", 
-                    "name": "Nueva Cancion"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011951", 
-                    "name": "Pachanga"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002804", 
-                    "name": "Puerto Rican Traditions"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002976", 
-                    "name": "Reggaeton"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002826", 
-                    "name": "Rock en Espa\u00f1ol"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002840", 
-                    "name": "Salsa"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002586", 
-                    "name": "Son"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011957", 
-                    "name": "Sonero"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012057", 
-                    "name": "Tropical"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012165", 
-                    "name": "Trova"
-                }
-            ], 
-            "type": "Music Genre", 
-            "id": "MA0000002692", 
-            "name": "Latin"
-        }, 
-        {
-            "subgenres": [
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012261", 
-                    "name": "Adult Alternative"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012005", 
-                    "name": "Contemporary Instrumental"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002576", 
-                    "name": "Environmental"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012111", 
-                    "name": "Ethnic Fusion"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002591", 
-                    "name": "Flute/New Age"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002833", 
-                    "name": "Guitar/New Age"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002835", 
-                    "name": "Harp/New Age"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012346", 
-                    "name": "Healing"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004424", 
-                    "name": "Inspirational"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002683", 
-                    "name": "Keyboard/Synthesizer/New Age"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002717", 
-                    "name": "Meditation/Relaxation"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012186", 
-                    "name": "Mystical Minimalism"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012045", 
-                    "name": "Nature"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012217", 
-                    "name": "Neo-Classical"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011948", 
-                    "name": "New Age Tone Poems"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002839", 
-                    "name": "Piano/New Age"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012190", 
-                    "name": "Progressive Alternative"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011836", 
-                    "name": "Progressive Electronic"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012285", 
-                    "name": "Relaxation"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011956", 
-                    "name": "Solo Instrumental"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012052", 
-                    "name": "Space"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011995", 
-                    "name": "Spiritual"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012225", 
-                    "name": "Techno-Tribal"
-                }
-            ], 
-            "type": "Music Genre", 
-            "id": "MA0000002745", 
-            "name": "New Age"
-        }, 
-        {
-            "subgenres": [
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011924", 
-                    "name": "Aboriginal Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004445", 
-                    "name": "Adult Contemporary"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004459", 
-                    "name": "Album Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012230", 
-                    "name": "Alternative/Indie Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012000", 
-                    "name": "AM Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012033", 
-                    "name": "American Trad Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012329", 
-                    "name": "Arena Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002431", 
-                    "name": "Art Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012169", 
-                    "name": "Asian Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012330", 
-                    "name": "Aussie Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011968", 
-                    "name": "AustroPop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012063", 
-                    "name": "Bar Band"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012101", 
-                    "name": "Baroque Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002468", 
-                    "name": "Blues-Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011815", 
-                    "name": "Boogie Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012296", 
-                    "name": "Brill Building Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002483", 
-                    "name": "British Folk-Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002484", 
-                    "name": "British Invasion"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012003", 
-                    "name": "British Trad Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002487", 
-                    "name": "Bubblegum"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012298", 
-                    "name": "Canterbury Scene"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012333", 
-                    "name": "Celebrity"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000005023", 
-                    "name": "Celtic Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012205", 
-                    "name": "Chinese Pop/Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012139", 
-                    "name": "Comedy Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004443", 
-                    "name": "Contemporary Pop/Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012268", 
-                    "name": "Contemporary Singer/Songwriter"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002536", 
-                    "name": "Country-Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004548", 
-                    "name": "Dance-Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012069", 
-                    "name": "Dance-Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012109", 
-                    "name": "Detroit Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011852", 
-                    "name": "Dutch Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002763", 
-                    "name": "Early Pop/Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011821", 
-                    "name": "Eastern European Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004446", 
-                    "name": "Euro-Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012305", 
-                    "name": "Euro-Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002951", 
-                    "name": "Exercise"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002582", 
-                    "name": "Experimental"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012307", 
-                    "name": "Frat Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012177", 
-                    "name": "French Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011853", 
-                    "name": "French Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002618", 
-                    "name": "Girl Groups"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002619", 
-                    "name": "Glam Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011935", 
-                    "name": "Glitter"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000005016", 
-                    "name": "Greek-Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002630", 
-                    "name": "Guitar Virtuoso"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002636", 
-                    "name": "Hard Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012246", 
-                    "name": "Heartland Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002721", 
-                    "name": "Heavy Metal"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012347", 
-                    "name": "Hong Kong Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011857", 
-                    "name": "Hot Rod"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012116", 
-                    "name": "Hot Rod Revival"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011904", 
-                    "name": "Indipop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002827", 
-                    "name": "Instrumental Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011980", 
-                    "name": "International Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011938", 
-                    "name": "Italian Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004456", 
-                    "name": "Jam Bands"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012350", 
-                    "name": "Japanese Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012014", 
-                    "name": "Jazz-Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004490", 
-                    "name": "J-Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012311", 
-                    "name": "Korean Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002687", 
-                    "name": "Kraut Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011908", 
-                    "name": "Latin Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012181", 
-                    "name": "Liedermacher"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012122", 
-                    "name": "Obscuro"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011989", 
-                    "name": "Okinawan Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012254", 
-                    "name": "Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012357", 
-                    "name": "Pop Idol"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000005020", 
-                    "name": "Post-Grunge"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002793", 
-                    "name": "Power Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002798", 
-                    "name": "Prog-Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000005021", 
-                    "name": "Proto-Punk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002800", 
-                    "name": "Psychedelic/Garage"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002802", 
-                    "name": "Pub Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011872", 
-                    "name": "Punk/New Wave"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011992", 
-                    "name": "Rap-Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012193", 
-                    "name": "Retro-Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002829", 
-                    "name": "Rock & Roll"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002831", 
-                    "name": "Rockabilly"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012051", 
-                    "name": "Rockabilly Revival"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004457", 
-                    "name": "Roots Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012287", 
-                    "name": "Scandinavian Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011838", 
-                    "name": "Schlager"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002855", 
-                    "name": "Singer/Songwriter"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002858", 
-                    "name": "Skiffle"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011841", 
-                    "name": "Soft Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012195", 
-                    "name": "South African Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002872", 
-                    "name": "Southern Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012026", 
-                    "name": "Sports Anthems"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012028", 
-                    "name": "Sunshine Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002883", 
-                    "name": "Surf"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011842", 
-                    "name": "Surf Revival"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012257", 
-                    "name": "Swamp Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012095", 
-                    "name": "Swedish Pop/Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011918", 
-                    "name": "Taiwanese Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002894", 
-                    "name": "Teen Idols"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002895", 
-                    "name": "Teen Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012163", 
-                    "name": "Thai Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012198", 
-                    "name": "Tribute Albums"
-                }
-            ], 
-            "type": "Music Genre", 
-            "id": "MA0000002613", 
-            "name": "Pop/Rock"
-        }, 
-        {
-            "subgenres": [
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012131", 
-                    "name": "Adult Contemporary R&B"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000013375", 
-                    "name": "Alternative R&B"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012034", 
-                    "name": "Beach"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002969", 
-                    "name": "Contemporary R&B"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002552", 
-                    "name": "Disco"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002556", 
-                    "name": "Doo Wop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002520", 
-                    "name": "Early R&B"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002606", 
-                    "name": "Funk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004426", 
-                    "name": "Neo-Soul"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000005027", 
-                    "name": "New Jack Swing"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002747", 
-                    "name": "New Orleans R&B"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012124", 
-                    "name": "Post-Disco"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004425", 
-                    "name": "Quiet Storm"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002810", 
-                    "name": "R&B Instrumental"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002865", 
-                    "name": "Soul"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011965", 
-                    "name": "Urban"
-                }
-            ], 
-            "type": "Music Genre", 
-            "id": "MA0000002809", 
-            "name": "R&B"
-        }, 
-        {
-            "subgenres": [
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012203", 
-                    "name": "Alternative Rap"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012265", 
-                    "name": "British Rap"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012206", 
-                    "name": "Comedy Rap"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012040", 
-                    "name": "Dirty Rap"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011851", 
-                    "name": "Dirty South"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002563", 
-                    "name": "East Coast Rap"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002599", 
-                    "name": "Freestyle"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002604", 
-                    "name": "French Rap"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002611", 
-                    "name": "Gangsta Rap"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011824", 
-                    "name": "G-Funk"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012011", 
-                    "name": "Golden Age"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011937", 
-                    "name": "Hardcore Rap"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012180", 
-                    "name": "Jazz-Rap"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002696", 
-                    "name": "Latin Rap"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011909", 
-                    "name": "Left-Field Hip-Hop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011863", 
-                    "name": "Midwest Rap"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002762", 
-                    "name": "Old-School Rap"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012321", 
-                    "name": "Party Rap"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012322", 
-                    "name": "Political Rap"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000005012", 
-                    "name": "Pop-Rap"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002871", 
-                    "name": "Southern Rap"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002911", 
-                    "name": "Turntablism"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002918", 
-                    "name": "Underground Rap"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002932", 
-                    "name": "West Coast Rap"
-                }
-            ], 
-            "type": "Music Genre", 
-            "id": "MA0000002816", 
-            "name": "Rap"
-        }, 
-        {
-            "subgenres": [
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011886", 
-                    "name": "Bluebeat"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011892", 
-                    "name": "Contemporary Reggae"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002545", 
-                    "name": "Dancehall"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002554", 
-                    "name": "DJ/Toasting"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002559", 
-                    "name": "Dub"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011897", 
-                    "name": "Dub Poetry"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004430", 
-                    "name": "Lovers Rock"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011868", 
-                    "name": "Nyahbinghi"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011834", 
-                    "name": "Political Reggae"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000005028", 
-                    "name": "Ragga"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012092", 
-                    "name": "Reggae-Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002830", 
-                    "name": "Rocksteady"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002836", 
-                    "name": "Roots Reggae"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002857", 
-                    "name": "Ska"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011916", 
-                    "name": "Smooth Reggae"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004429", 
-                    "name": "Sound System"
-                }
-            ], 
-            "type": "Music Genre", 
-            "id": "MA0000002820", 
-            "name": "Reggae"
-        }, 
-        {
-            "subgenres": [
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002529", 
-                    "name": "Contemporary Christian"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002622", 
-                    "name": "Gospel"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002822", 
-                    "name": "Sacred Traditions"
-                }
-            ], 
-            "type": "Music Genre", 
-            "id": "MA0000004431", 
-            "name": "Religious"
-        }, 
-        {
-            "subgenres": [
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002767", 
-                    "name": "Cast Recordings"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004434", 
-                    "name": "Sound Effects"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002867", 
-                    "name": "Soundtracks"
-                }
-            ], 
-            "type": "Music Genre", 
-            "id": "MA0000004432", 
-            "name": "Stage & Screen"
-        }, 
-        {
-            "subgenres": [
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012097", 
-                    "name": "Acappella"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011884", 
-                    "name": "American Popular Song"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012134", 
-                    "name": "Barbershop Quartet"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002492", 
-                    "name": "Cabaret"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000004466", 
-                    "name": "Composer Songbook"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002605", 
-                    "name": "French Chanson"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012115", 
-                    "name": "Harmony Vocal Group"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000012154", 
-                    "name": "Music Hall"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000005015", 
-                    "name": "Nouvelle Chanson"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011874", 
-                    "name": "Standards"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011920", 
-                    "name": "Tin Pan Alley Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000011997", 
-                    "name": "Torch Songs"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002961", 
-                    "name": "Traditional Pop"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000005005", 
-                    "name": "Vaudeville"
-                }, 
-                {
-                    "type": "Music SubGenre", 
-                    "id": "MA0000002787", 
-                    "name": "Vocal Pop"
-                }
-            ], 
-            "type": "Music Genre", 
-            "id": "MA0000011877", 
-            "name": "Vocal"
-        }
-    ], 
-    "code": 200, 
-    "parameters": {
-        "apiKey": "s36p55z33hdy7mehukb4a9mv", 
-        "language": "en", 
-        "format": "json", 
-        "country": "US", 
-        "include": "subgenres", 
-        "id": null
+[
+    {
+        "subgenres": [
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012238", 
+                "name": "Computer Music"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011891", 
+                "name": "Conceptual Art"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012269", 
+                "name": "Creative Orchestra"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012210", 
+                "name": "Experimental Electronic"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012076", 
+                "name": "Improvisation"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012082", 
+                "name": "Microtonal"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012315", 
+                "name": "Minimalism"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012251", 
+                "name": "Mixed Media"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012083", 
+                "name": "Modern Composition"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012155", 
+                "name": "Musique Actuelle"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012319", 
+                "name": "Musique Concr\u00e8te"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012085", 
+                "name": "Noise"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012358", 
+                "name": "Post-Minimalism"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012126", 
+                "name": "Process-Generated"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012158", 
+                "name": "Radio Works"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011958", 
+                "name": "Sound Art"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011959", 
+                "name": "Sound Collage"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012289", 
+                "name": "Sound Sculpture"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012162", 
+                "name": "Structured Improvisation"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012196", 
+                "name": "Tape Music"
+            }
+        ], 
+        "type": "Music Genre", 
+        "id": "MA0000012170", 
+        "name": "Avant-Garde"
     }, 
-    "serverName": "tul1csprcs4.corporate.local", 
-    "messages": null, 
-    "build": "1.0", 
-    "startTime": "2012-10-12T11:10:48Z", 
-    "duration": 36, 
-    "endTime": "2012-10-12T11:10:48Z", 
-    "view": {
-        "total": 21
+    {
+        "subgenres": [
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012058", 
+                "name": "Acoustic Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011814", 
+                "name": "Blues Gospel"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012232", 
+                "name": "Blues Revival"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002517", 
+                "name": "Classic Blues Vocals"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004403", 
+                "name": "Classic Female Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002960", 
+                "name": "Contemporary Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002533", 
+                "name": "Country Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012302", 
+                "name": "Dirty Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011898", 
+                "name": "Early American Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004405", 
+                "name": "Electric Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012304", 
+                "name": "Electric Country Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011822", 
+                "name": "Electric Harmonica Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012042", 
+                "name": "Folk-Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002404", 
+                "name": "Harmonica Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011940", 
+                "name": "Juke Joint Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002678", 
+                "name": "Jump Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011864", 
+                "name": "Minstrel"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012184", 
+                "name": "Modern Acoustic Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002730", 
+                "name": "Modern Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011944", 
+                "name": "Modern Electric Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002405", 
+                "name": "Piano Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002794", 
+                "name": "Pre-War Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011871", 
+                "name": "Pre-War Country Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012359", 
+                "name": "Pre-War Gospel Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002821", 
+                "name": "Regional Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004404", 
+                "name": "Slide Guitar Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012093", 
+                "name": "Songster"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004996", 
+                "name": "Soul-Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004995", 
+                "name": "Traditional Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012096", 
+                "name": "Urban Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011921", 
+                "name": "Vaudeville Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012293", 
+                "name": "Work Songs"
+            }
+        ], 
+        "type": "Music Genre", 
+        "id": "MA0000002467", 
+        "name": "Blues"
+    }, 
+    {
+        "subgenres": [
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012204", 
+                "name": "Children's Folk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012171", 
+                "name": "Children's Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011889", 
+                "name": "Children's Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004410", 
+                "name": "Children's Songwriters"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004409", 
+                "name": "Educational"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012072", 
+                "name": "Fairy Tales"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000013406", 
+                "name": "Instrumental Children's Music"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004408", 
+                "name": "Lullabies"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012087", 
+                "name": "Nursery Rhymes"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004407", 
+                "name": "Sing-Alongs"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004406", 
+                "name": "Stories"
+            }
+        ], 
+        "type": "Music Genre", 
+        "id": "MA0000002944", 
+        "name": "Children's"
+    }, 
+    {
+        "subgenres": [
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004930", 
+                "name": "Avant-Garde Music"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004505", 
+                "name": "Ballet"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004501", 
+                "name": "Band Music"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004500", 
+                "name": "Chamber Music"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004509", 
+                "name": "Choral"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004504", 
+                "name": "Classical Crossover"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012338", 
+                "name": "Concerto"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004507", 
+                "name": "Electronic/Computer Music"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012306", 
+                "name": "Film Score"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011828", 
+                "name": "Keyboard"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012215", 
+                "name": "Miscellaneous (Classical)"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004512", 
+                "name": "Opera"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004499", 
+                "name": "Orchestral"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004506", 
+                "name": "Show/Musical"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012291", 
+                "name": "Symphony"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004520", 
+                "name": "Vocal Music"
+            }
+        ], 
+        "type": "Music Genre", 
+        "id": "MA0000002521", 
+        "name": "Classical"
+    }, 
+    {
+        "subgenres": [
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002525", 
+                "name": "Comedy"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002875", 
+                "name": "Spoken Word"
+            }
+        ], 
+        "type": "Music Genre", 
+        "id": "MA0000004433", 
+        "name": "Comedy/Spoken"
+    }, 
+    {
+        "subgenres": [
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004415", 
+                "name": "Americana"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002443", 
+                "name": "Bakersfield Sound"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002466", 
+                "name": "Bluegrass"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012138", 
+                "name": "Close Harmony"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002946", 
+                "name": "Contemporary Country"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011894", 
+                "name": "Country Boogie"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012239", 
+                "name": "Country Comedy"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012141", 
+                "name": "Country-Folk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004416", 
+                "name": "Country-Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002538", 
+                "name": "Cowboy"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002561", 
+                "name": "Early Country"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002648", 
+                "name": "Honky Tonk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011979", 
+                "name": "Instrumental Country"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012351", 
+                "name": "Jug Band"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002739", 
+                "name": "Nashville Sound/Countrypolitan"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012123", 
+                "name": "Old-Timey"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002949", 
+                "name": "Outlaw Country"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002796", 
+                "name": "Progressive Country"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012323", 
+                "name": "Rodeo"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011873", 
+                "name": "Square Dance"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004474", 
+                "name": "Traditional Country"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012199", 
+                "name": "Truck Driving Country"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012202", 
+                "name": "Urban Cowboy"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002935", 
+                "name": "Western Swing"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012227", 
+                "name": "Western Swing Revival"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012228", 
+                "name": "Yodeling"
+            }
+        ], 
+        "type": "Music Genre", 
+        "id": "MA0000002532", 
+        "name": "Country"
+    }, 
+    {
+        "subgenres": [
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002446", 
+                "name": "Ballroom Dance"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012236", 
+                "name": "Classical Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012240", 
+                "name": "Easy Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002581", 
+                "name": "Exotica"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002629", 
+                "name": "Guitar/Easy Listening"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002659", 
+                "name": "Instrumental Collections"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012247", 
+                "name": "Instrumental Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012079", 
+                "name": "Lounge"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012317", 
+                "name": "Mood Music"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002765", 
+                "name": "Orchestral/Easy Listening"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002766", 
+                "name": "Organ/Easy Listening"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002771", 
+                "name": "Panflute/Easy Listening"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002777", 
+                "name": "Piano/Easy Listening"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002780", 
+                "name": "Polka"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011960", 
+                "name": "Space Age Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002908", 
+                "name": "Trumpet/Easy Listening"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012168", 
+                "name": "Waltz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002930", 
+                "name": "Wedding Collections"
+            }
+        ], 
+        "type": "Music Genre", 
+        "id": "MA0000002567", 
+        "name": "Easy Listening"
+    }, 
+    {
+        "subgenres": [
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002414", 
+                "name": "Acid Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002424", 
+                "name": "Ambient"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011810", 
+                "name": "Ambient Breakbeat"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011811", 
+                "name": "Ambient Dub"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012031", 
+                "name": "Ambient House"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004476", 
+                "name": "Baile Funk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004997", 
+                "name": "Big Beat"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004991", 
+                "name": "Breakcore"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004475", 
+                "name": "Broken Beat"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012235", 
+                "name": "Chiptunes"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002544", 
+                "name": "Club/Dance"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011890", 
+                "name": "Clubjazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011972", 
+                "name": "Dark Ambient"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012007", 
+                "name": "Downbeat"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004999", 
+                "name": "Downtempo"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002571", 
+                "name": "Electro"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012174", 
+                "name": "Electro-Acoustic"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012175", 
+                "name": "Electro-Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002574", 
+                "name": "Electronica"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012112", 
+                "name": "Experimental Ambient"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011974", 
+                "name": "Experimental Dub"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012209", 
+                "name": "Experimental Electro"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004998", 
+                "name": "Funky Breaks"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012308", 
+                "name": "Garage"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011854", 
+                "name": "Glitch"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002651", 
+                "name": "House"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004477", 
+                "name": "IDM"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012348", 
+                "name": "Illbient"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012077", 
+                "name": "Industrial Dance"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002557", 
+                "name": "Jungle/Drum'n'Bass"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012280", 
+                "name": "Microsound"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011910", 
+                "name": "Neo-Electro"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011831", 
+                "name": "Newbeat"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012021", 
+                "name": "Nu Breaks"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004480", 
+                "name": "Rave"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002893", 
+                "name": "Techno"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002903", 
+                "name": "Trance"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002906", 
+                "name": "Trip-Hop"
+            }
+        ], 
+        "type": "Music Genre", 
+        "id": "MA0000002572", 
+        "name": "Electronic"
+    }, 
+    {
+        "subgenres": [
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011878", 
+                "name": "Acid Folk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012099", 
+                "name": "Alternative Folk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004417", 
+                "name": "Anti-Folk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002959", 
+                "name": "British Folk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012267", 
+                "name": "Contemporary Folk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012041", 
+                "name": "Field Recordings"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004420", 
+                "name": "Folk Revival"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000005011", 
+                "name": "Folk-Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012043", 
+                "name": "Folksongs"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012282", 
+                "name": "Neo-Traditional Folk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011947", 
+                "name": "New Acoustic"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012253", 
+                "name": "Political Folk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012361", 
+                "name": "Progressive Folk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004418", 
+                "name": "Protest Songs"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000005006", 
+                "name": "Sea Shanties"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002880", 
+                "name": "String Bands"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004419", 
+                "name": "Traditional Folk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004421", 
+                "name": "Urban Folk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002823", 
+                "name": "Work Song"
+            }
+        ], 
+        "type": "Music Genre", 
+        "id": "MA0000002592", 
+        "name": "Folk"
+    }, 
+    {
+        "subgenres": [
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012332", 
+                "name": "Carols"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011929", 
+                "name": "Christmas"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012071", 
+                "name": "Easter"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011825", 
+                "name": "Halloween"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012148", 
+                "name": "Holidays"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012325", 
+                "name": "Thanksgiving"
+            }
+        ], 
+        "type": "Music Genre", 
+        "id": "MA0000012075", 
+        "name": "Holiday"
+    }, 
+    {
+        "subgenres": [
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002416", 
+                "name": "African Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002432", 
+                "name": "Asian Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002477", 
+                "name": "Brazilian Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002499", 
+                "name": "Caribbean Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002502", 
+                "name": "Celtic"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004472", 
+                "name": "Central European Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002565", 
+                "name": "Central/West Asian Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012234", 
+                "name": "Chants"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002511", 
+                "name": "Chinese Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002580", 
+                "name": "European Folk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011975", 
+                "name": "Finger-Picked Guitar"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002612", 
+                "name": "Folk Dance"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012113", 
+                "name": "Folklore"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004469", 
+                "name": "Indian Subcontinent Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002657", 
+                "name": "Indonesian Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012309", 
+                "name": "International Folk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000005029", 
+                "name": "International Fusion"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002672", 
+                "name": "Japanese Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002676", 
+                "name": "Jewish Music"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002680", 
+                "name": "Mediterranean Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002726", 
+                "name": "Middle Eastern Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012187", 
+                "name": "Neo-Traditional"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004471", 
+                "name": "Nordic Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002716", 
+                "name": "North American Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002596", 
+                "name": "North/East Asian Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004470", 
+                "name": "Oceanic Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002937", 
+                "name": "Pan-Global"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011991", 
+                "name": "Pipe Bands"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012090", 
+                "name": "Quadrille"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002838", 
+                "name": "Russian Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002869", 
+                "name": "South American Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002597", 
+                "name": "South/Eastern European Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004468", 
+                "name": "Southeast Asian Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012056", 
+                "name": "Traditional European Folk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004467", 
+                "name": "Western European Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011922", 
+                "name": "Worldbeat"
+            }
+        ], 
+        "type": "Music Genre", 
+        "id": "MA0000002660", 
+        "name": "International"
+    }, 
+    {
+        "subgenres": [
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002438", 
+                "name": "Avant-Garde Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002461", 
+                "name": "Big Band"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002471", 
+                "name": "Boogie-Woogie"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002457", 
+                "name": "Bop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012264", 
+                "name": "British Dance Bands"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012336", 
+                "name": "Chamber Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002508", 
+                "name": "Chicago Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004545", 
+                "name": "Contemporary Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012140", 
+                "name": "Continental Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002530", 
+                "name": "Cool"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012142", 
+                "name": "Crossover Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012107", 
+                "name": "Dance Bands"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002553", 
+                "name": "Dixieland"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011973", 
+                "name": "Early Creative"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002519", 
+                "name": "Early Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012242", 
+                "name": "Electric Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012009", 
+                "name": "Experimental Big Band"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011933", 
+                "name": "Folk Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011823", 
+                "name": "Free Funk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004486", 
+                "name": "Free Improvisation"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002598", 
+                "name": "Free Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002607", 
+                "name": "Fusion"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002634", 
+                "name": "Hard Bop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011856", 
+                "name": "Hot Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011827", 
+                "name": "Jazz Blues"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002947", 
+                "name": "Jazz Instrument"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011905", 
+                "name": "Jazz-Funk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011906", 
+                "name": "Jazz-Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012150", 
+                "name": "Jive"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012249", 
+                "name": "Mainstream Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012182", 
+                "name": "M-Base"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011865", 
+                "name": "Modal Music"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011986", 
+                "name": "Modern Big Band"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011987", 
+                "name": "Modern Creative"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012185", 
+                "name": "Modern Free"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004544", 
+                "name": "Modern Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011946", 
+                "name": "Neo-Bop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011867", 
+                "name": "New Orleans Brass Bands"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011830", 
+                "name": "New Orleans Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012189", 
+                "name": "New Orleans Jazz Revival"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012047", 
+                "name": "Novelty Ragtime"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011833", 
+                "name": "Orchestral Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000005010", 
+                "name": "Post-Bop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012127", 
+                "name": "Progressive Big Band"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012362", 
+                "name": "Progressive Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004422", 
+                "name": "Ragtime"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002860", 
+                "name": "Smooth Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012365", 
+                "name": "Society Dance Band"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002866", 
+                "name": "Soul Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000013403", 
+                "name": "Spiritual Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012256", 
+                "name": "Straight-Ahead Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012053", 
+                "name": "Stride"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011843", 
+                "name": "Sweet Bands"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004423", 
+                "name": "Swing"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012292", 
+                "name": "Third Stream"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012054", 
+                "name": "Trad Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002948", 
+                "name": "Vocal Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002933", 
+                "name": "West Coast Jazz"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012260", 
+                "name": "World Fusion"
+            }
+        ], 
+        "type": "Music Genre", 
+        "id": "MA0000002674", 
+        "name": "Jazz"
+    }, 
+    {
+        "subgenres": [
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012098", 
+                "name": "Afro-Brazilian"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012132", 
+                "name": "Afro-Colombian"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012061", 
+                "name": "Afro-Peruvian"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002505", 
+                "name": "Alternative Latin"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012035", 
+                "name": "Beguine"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012135", 
+                "name": "Beguine Moderne"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012064", 
+                "name": "Beguine Vide"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011887", 
+                "name": "Boogaloo"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002503", 
+                "name": "Central American Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012068", 
+                "name": "Cha-Cha"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012266", 
+                "name": "Changui"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012143", 
+                "name": "Cuatro"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002540", 
+                "name": "Cuban Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002555", 
+                "name": "Dominican Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012119", 
+                "name": "Lambada"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012015", 
+                "name": "Latin Big Band"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002693", 
+                "name": "Latin CCM"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011984", 
+                "name": "Latin Comedy"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002694", 
+                "name": "Latin Dance"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012016", 
+                "name": "Latin Folk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011861", 
+                "name": "Latin Freestyle"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004461", 
+                "name": "Latin Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012248", 
+                "name": "Latin Soul"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002722", 
+                "name": "Mexican Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012153", 
+                "name": "Modern Son"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012046", 
+                "name": "New York Salsa"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002719", 
+                "name": "Nueva Cancion"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011951", 
+                "name": "Pachanga"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002804", 
+                "name": "Puerto Rican Traditions"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002976", 
+                "name": "Reggaeton"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002826", 
+                "name": "Rock en Espa\u00f1ol"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002840", 
+                "name": "Salsa"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002586", 
+                "name": "Son"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011957", 
+                "name": "Sonero"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012057", 
+                "name": "Tropical"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012165", 
+                "name": "Trova"
+            }
+        ], 
+        "type": "Music Genre", 
+        "id": "MA0000002692", 
+        "name": "Latin"
+    }, 
+    {
+        "subgenres": [
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012261", 
+                "name": "Adult Alternative"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012005", 
+                "name": "Contemporary Instrumental"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002576", 
+                "name": "Environmental"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012111", 
+                "name": "Ethnic Fusion"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002591", 
+                "name": "Flute/New Age"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002833", 
+                "name": "Guitar/New Age"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002835", 
+                "name": "Harp/New Age"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012346", 
+                "name": "Healing"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004424", 
+                "name": "Inspirational"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002683", 
+                "name": "Keyboard/Synthesizer/New Age"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002717", 
+                "name": "Meditation/Relaxation"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012186", 
+                "name": "Mystical Minimalism"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012045", 
+                "name": "Nature"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012217", 
+                "name": "Neo-Classical"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011948", 
+                "name": "New Age Tone Poems"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002839", 
+                "name": "Piano/New Age"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012190", 
+                "name": "Progressive Alternative"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011836", 
+                "name": "Progressive Electronic"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012285", 
+                "name": "Relaxation"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011956", 
+                "name": "Solo Instrumental"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012052", 
+                "name": "Space"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011995", 
+                "name": "Spiritual"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012225", 
+                "name": "Techno-Tribal"
+            }
+        ], 
+        "type": "Music Genre", 
+        "id": "MA0000002745", 
+        "name": "New Age"
+    }, 
+    {
+        "subgenres": [
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011924", 
+                "name": "Aboriginal Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004445", 
+                "name": "Adult Contemporary"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004459", 
+                "name": "Album Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012230", 
+                "name": "Alternative/Indie Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012000", 
+                "name": "AM Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012033", 
+                "name": "American Trad Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012329", 
+                "name": "Arena Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002431", 
+                "name": "Art Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012169", 
+                "name": "Asian Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012330", 
+                "name": "Aussie Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011968", 
+                "name": "AustroPop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012063", 
+                "name": "Bar Band"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012101", 
+                "name": "Baroque Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002468", 
+                "name": "Blues-Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011815", 
+                "name": "Boogie Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012296", 
+                "name": "Brill Building Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002483", 
+                "name": "British Folk-Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002484", 
+                "name": "British Invasion"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012003", 
+                "name": "British Trad Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002487", 
+                "name": "Bubblegum"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012298", 
+                "name": "Canterbury Scene"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012333", 
+                "name": "Celebrity"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000005023", 
+                "name": "Celtic Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012205", 
+                "name": "Chinese Pop/Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012139", 
+                "name": "Comedy Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004443", 
+                "name": "Contemporary Pop/Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012268", 
+                "name": "Contemporary Singer/Songwriter"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002536", 
+                "name": "Country-Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004548", 
+                "name": "Dance-Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012069", 
+                "name": "Dance-Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012109", 
+                "name": "Detroit Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011852", 
+                "name": "Dutch Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002763", 
+                "name": "Early Pop/Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011821", 
+                "name": "Eastern European Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004446", 
+                "name": "Euro-Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012305", 
+                "name": "Euro-Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002951", 
+                "name": "Exercise"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002582", 
+                "name": "Experimental"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012307", 
+                "name": "Frat Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012177", 
+                "name": "French Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011853", 
+                "name": "French Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002618", 
+                "name": "Girl Groups"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002619", 
+                "name": "Glam Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011935", 
+                "name": "Glitter"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000005016", 
+                "name": "Greek-Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002630", 
+                "name": "Guitar Virtuoso"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002636", 
+                "name": "Hard Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012246", 
+                "name": "Heartland Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002721", 
+                "name": "Heavy Metal"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012347", 
+                "name": "Hong Kong Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011857", 
+                "name": "Hot Rod"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012116", 
+                "name": "Hot Rod Revival"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011904", 
+                "name": "Indipop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002827", 
+                "name": "Instrumental Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011980", 
+                "name": "International Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011938", 
+                "name": "Italian Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004456", 
+                "name": "Jam Bands"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012350", 
+                "name": "Japanese Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012014", 
+                "name": "Jazz-Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004490", 
+                "name": "J-Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012311", 
+                "name": "Korean Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002687", 
+                "name": "Kraut Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011908", 
+                "name": "Latin Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012181", 
+                "name": "Liedermacher"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012122", 
+                "name": "Obscuro"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011989", 
+                "name": "Okinawan Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012254", 
+                "name": "Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012357", 
+                "name": "Pop Idol"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000005020", 
+                "name": "Post-Grunge"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002793", 
+                "name": "Power Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002798", 
+                "name": "Prog-Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000005021", 
+                "name": "Proto-Punk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002800", 
+                "name": "Psychedelic/Garage"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002802", 
+                "name": "Pub Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011872", 
+                "name": "Punk/New Wave"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011992", 
+                "name": "Rap-Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012193", 
+                "name": "Retro-Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002829", 
+                "name": "Rock & Roll"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002831", 
+                "name": "Rockabilly"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012051", 
+                "name": "Rockabilly Revival"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004457", 
+                "name": "Roots Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012287", 
+                "name": "Scandinavian Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011838", 
+                "name": "Schlager"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002855", 
+                "name": "Singer/Songwriter"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002858", 
+                "name": "Skiffle"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011841", 
+                "name": "Soft Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012195", 
+                "name": "South African Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002872", 
+                "name": "Southern Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012026", 
+                "name": "Sports Anthems"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012028", 
+                "name": "Sunshine Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002883", 
+                "name": "Surf"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011842", 
+                "name": "Surf Revival"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012257", 
+                "name": "Swamp Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012095", 
+                "name": "Swedish Pop/Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011918", 
+                "name": "Taiwanese Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002894", 
+                "name": "Teen Idols"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002895", 
+                "name": "Teen Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012163", 
+                "name": "Thai Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012198", 
+                "name": "Tribute Albums"
+            }
+        ], 
+        "type": "Music Genre", 
+        "id": "MA0000002613", 
+        "name": "Pop/Rock"
+    }, 
+    {
+        "subgenres": [
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012131", 
+                "name": "Adult Contemporary R&B"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000013375", 
+                "name": "Alternative R&B"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012034", 
+                "name": "Beach"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002969", 
+                "name": "Contemporary R&B"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002552", 
+                "name": "Disco"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002556", 
+                "name": "Doo Wop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002520", 
+                "name": "Early R&B"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002606", 
+                "name": "Funk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004426", 
+                "name": "Neo-Soul"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000005027", 
+                "name": "New Jack Swing"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002747", 
+                "name": "New Orleans R&B"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012124", 
+                "name": "Post-Disco"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004425", 
+                "name": "Quiet Storm"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002810", 
+                "name": "R&B Instrumental"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002865", 
+                "name": "Soul"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011965", 
+                "name": "Urban"
+            }
+        ], 
+        "type": "Music Genre", 
+        "id": "MA0000002809", 
+        "name": "R&B"
+    }, 
+    {
+        "subgenres": [
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012203", 
+                "name": "Alternative Rap"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012265", 
+                "name": "British Rap"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012206", 
+                "name": "Comedy Rap"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012040", 
+                "name": "Dirty Rap"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011851", 
+                "name": "Dirty South"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002563", 
+                "name": "East Coast Rap"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002599", 
+                "name": "Freestyle"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002604", 
+                "name": "French Rap"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002611", 
+                "name": "Gangsta Rap"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011824", 
+                "name": "G-Funk"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012011", 
+                "name": "Golden Age"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011937", 
+                "name": "Hardcore Rap"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012180", 
+                "name": "Jazz-Rap"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002696", 
+                "name": "Latin Rap"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011909", 
+                "name": "Left-Field Hip-Hop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011863", 
+                "name": "Midwest Rap"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002762", 
+                "name": "Old-School Rap"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012321", 
+                "name": "Party Rap"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012322", 
+                "name": "Political Rap"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000005012", 
+                "name": "Pop-Rap"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002871", 
+                "name": "Southern Rap"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002911", 
+                "name": "Turntablism"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002918", 
+                "name": "Underground Rap"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002932", 
+                "name": "West Coast Rap"
+            }
+        ], 
+        "type": "Music Genre", 
+        "id": "MA0000002816", 
+        "name": "Rap"
+    }, 
+    {
+        "subgenres": [
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011886", 
+                "name": "Bluebeat"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011892", 
+                "name": "Contemporary Reggae"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002545", 
+                "name": "Dancehall"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002554", 
+                "name": "DJ/Toasting"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002559", 
+                "name": "Dub"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011897", 
+                "name": "Dub Poetry"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004430", 
+                "name": "Lovers Rock"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011868", 
+                "name": "Nyahbinghi"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011834", 
+                "name": "Political Reggae"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000005028", 
+                "name": "Ragga"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012092", 
+                "name": "Reggae-Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002830", 
+                "name": "Rocksteady"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002836", 
+                "name": "Roots Reggae"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002857", 
+                "name": "Ska"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011916", 
+                "name": "Smooth Reggae"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004429", 
+                "name": "Sound System"
+            }
+        ], 
+        "type": "Music Genre", 
+        "id": "MA0000002820", 
+        "name": "Reggae"
+    }, 
+    {
+        "subgenres": [
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002529", 
+                "name": "Contemporary Christian"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002622", 
+                "name": "Gospel"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002822", 
+                "name": "Sacred Traditions"
+            }
+        ], 
+        "type": "Music Genre", 
+        "id": "MA0000004431", 
+        "name": "Religious"
+    }, 
+    {
+        "subgenres": [
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002767", 
+                "name": "Cast Recordings"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004434", 
+                "name": "Sound Effects"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002867", 
+                "name": "Soundtracks"
+            }
+        ], 
+        "type": "Music Genre", 
+        "id": "MA0000004432", 
+        "name": "Stage & Screen"
+    }, 
+    {
+        "subgenres": [
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012097", 
+                "name": "Acappella"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011884", 
+                "name": "American Popular Song"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012134", 
+                "name": "Barbershop Quartet"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002492", 
+                "name": "Cabaret"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000004466", 
+                "name": "Composer Songbook"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002605", 
+                "name": "French Chanson"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012115", 
+                "name": "Harmony Vocal Group"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000012154", 
+                "name": "Music Hall"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000005015", 
+                "name": "Nouvelle Chanson"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011874", 
+                "name": "Standards"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011920", 
+                "name": "Tin Pan Alley Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000011997", 
+                "name": "Torch Songs"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002961", 
+                "name": "Traditional Pop"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000005005", 
+                "name": "Vaudeville"
+            }, 
+            {
+                "type": "Music SubGenre", 
+                "id": "MA0000002787", 
+                "name": "Vocal Pop"
+            }
+        ], 
+        "type": "Music Genre", 
+        "id": "MA0000011877", 
+        "name": "Vocal"
     }
-}
+]
