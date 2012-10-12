@@ -1,0 +1,14 @@
+<html>
+  <head> 
+    <title> List of Artists </title>
+  </head>
+  <body>
+    <h1> The Artists you Asked For </h1>
+    <h1> {{ artists[0]['genre']['name'] }} </h1>
+    <ul>
+      {% for artist in artists %}
+        <li><p>{{ artist.get('name') }} </p></li>
+      {% endfor %}
+    </ul>
+  </body>
+</html>

@@ -25,7 +25,7 @@ def get_artist_by_genre(id):
     f = open ('genre_' + str(id) + '.json', 'r')
     artists = json.load(f)
     f.close()
-    return str(artists)
+    return render_template('artist_list.html', artists=artists)
 
 if __name__ == '__main__':
     app.debug = True
