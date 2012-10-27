@@ -8,10 +8,12 @@
 
     <ul>
     {% for genre in genres %}
-      <li><p> {{  genre.get('name')  }} </p>
+      <li><p><a href="{{ url_for('get_artist_by_genre',
+      id=genre.get('id')) }}">  {{  genre.get('name')  }} </a></p>
       <ul>
         {% for subgenre in genre.get('subgenres') %}
-          <li><p> {{ subgenre.get('name') }} </p></li>
+          <li><p><a href="{{ url_for('get_artist_by_genre',
+        id=subgenre.get('id')) }}"> {{ subgenre.get('name') }}</a></p></li>
         {% endfor %}
       </ul></li>
       

@@ -1,5 +1,6 @@
 from flask import Flask
 from flask import render_template
+from flask import url_for
 from secrets import apikey, sign
 
 import requests
@@ -11,7 +12,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return "Hello World!"
+    return "Sorry, this space empty."
 
 @app.route('/genres')
 def genre_list():
@@ -26,6 +27,10 @@ def get_artist_by_genre(id):
     artists = json.load(f)
     f.close()
     return render_template('artist_list.html', artists=artists)
+
+@app.route('/map/genre/<id>')
+def map_artist_by_genre(id):
+    return "Sorry, this space empty."
 
 if __name__ == '__main__':
     app.debug = True
