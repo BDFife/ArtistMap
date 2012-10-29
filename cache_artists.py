@@ -38,11 +38,12 @@ def get_artist_by_genre(id, extra_info=True):
     if extra_info == True:
         for artist in artists:
             artist_id = artist.get('id')
+            print "Looking up " + str(artist.get('name', 'No Name Available')
             if artist_id:
                 extra_info = get_extra_artist_info(artist_id)
-                artist['bio'] = extra_info.get('bio', 'no bio available')
-                artist['hometown'] = extra_info.get('hometown')
-            full.artists.append(artist)
+                artist['bio'] = extra_info.get('bio')
+                artist['hometown'] = extra_info.get('birth')
+            full_artists.append(artist)
         artists = full_artists
     print str(len(artists)) + " artists"
     f = open("genre_" + str(id) + ".json", 'w')
@@ -74,14 +75,23 @@ def get_extra_artist_info(id):
     base_url = "http://api.rovicorp.com/data/v1.1/name/info"
     r = requests.get(base_url, params=req_vars)
     data = r.json
-    print data
+    artist_info = data.get('name', False)
+    
+    if artist_info:
+        birth_city = artist_info.get('birth').get('place')
+        headline_bio = artist_info.get('headlineBio', "Sorry, No Bio Available")
+        # pass on images for now. 
+
+        return {'city': birth_city, 'bio': headline_bio}
+    else:
+        return { }
 
 def get_artist_geodata():
     pass
 
 if __name__ == "__main__":
-#    print "caching genres"
-#    get_genres()
-#    print "caching artists"
-#    cache_all_genres()
-    get_extra_artist_info("MN0000842802")
+    print "caching genres"
+    get_genres()
+    print "caching artists"
+    cache_all_genres()
+#    get_extra_artist_info("MN0000842802")

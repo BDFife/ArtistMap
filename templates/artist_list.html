@@ -7,7 +7,8 @@
     <h1> {{ artists[0]['genre']['name'] }} </h1>
     <ul>
       {% for artist in artists %}
-        <li><p>{{ artist.get('name') }} </p></li>
+        <li><p>{{ artist.get('name') }} from {{
+      artist.get('hometown') }} </p></li>
       {% endfor %}
     </ul>
   </body>
